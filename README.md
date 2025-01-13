@@ -1,4 +1,4 @@
-#Symbiosis Library Database Project
+#Symbiosis Library Database Project#
 
 This project is a relational database designed for managing the operations of a library system. It was developed as part of my academic coursework during my database management studies. The dataset and requirements were provided by my professor to ensure adherence to specific learning objectives and to simulate a real-world library management scenario.
 
