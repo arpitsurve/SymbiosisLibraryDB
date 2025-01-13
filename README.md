@@ -22,10 +22,12 @@ Learning Outcomes
 * Database Design: Gained hands-on experience with designing normalized relational databases.
 * SQL Proficiency: Developed skills in creating, populating, and querying databases.
 * Problem-Solving: Simulated real-world scenarios to solve common database management challenges
+
 ---
 Academic Context
 
 This project was developed as part of the coursework for the Database Management Systems (DBMS) course at Symbiosis Institute of Technology. The primary goal was to apply theoretical knowledge to a practical, real-world system.
+
 ---
 Acknowledgments
 * Professor's Contribution: Data and requirements were provided as part of the course.
